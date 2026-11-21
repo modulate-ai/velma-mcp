@@ -1,0 +1,1 @@
+{"_comment":"From the spec 200 example.","accent":"British","time_series":[{"start_ms":0,"duration_ms":15000,"accent":"British"},{"start_ms":15000,"duration_ms":15000,"accent":"American"}]}

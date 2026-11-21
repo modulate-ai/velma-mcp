@@ -1,0 +1,1 @@
+{"_comment":"From the spec 200 example.","filename":"my_audio.wav","duration_s":5.76,"primary_label":"speech","music_pct":0.0,"speech_pct":86.7,"latency_ms":1243.5,"frames":[{"start_time_ms":0,"end_time_ms":192,"music_prob":0.0213,"speech_prob":0.9888},{"start_time_ms":192,"end_time_ms":384,"music_prob":0.0204,"speech_prob":0.9931}]}
